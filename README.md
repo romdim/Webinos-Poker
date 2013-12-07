@@ -7,7 +7,6 @@ Poker created with Webinos. Can be played in various devices in multiplayer mode
 Open up a table and let people join in a Poker game. The table mode is optimized to be shared on the TV while the players can play on their mobile phones or tablets.
 
 ### Application info
----
 Created by: Romanos Tsouroplis
 ---
 Urls: 	
