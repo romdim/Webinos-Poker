@@ -10,9 +10,9 @@ Open up a table and let people join in a Poker game. The table mode is optimized
 Created by: Romanos Tsouroplis
 ---
 Urls: 	
-* http://www.youtube.com/watch?v=_uF_tGByBrk,
-* http://www.youtube.com/watch?v=WIx0n39e3Ok,
-* http://www.youtube.com/watch?v=7XnDMC5rlCg,
+- http://www.youtube.com/watch?v=_uF_tGByBrk
+- http://www.youtube.com/watch?v=WIx0n39e3Ok
+- http://www.youtube.com/watch?v=7XnDMC5rlCg
 - http://www.youtube.com/watch?v=D_LwBAMukng
 ---
 Ranking: 	[3rd place in the 1st webinos appChallenge](http://www.webinos.org/appchallenge/ "Webinos appChallenge")
