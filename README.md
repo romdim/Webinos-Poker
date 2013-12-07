@@ -9,7 +9,7 @@ Open up a table and let people join in a Poker game. The table mode is optimized
 ### Application info
 ####Created by: Romanos Tsouroplis
 ---
-Urls:
+####Urls:
 
 - http://www.youtube.com/watch?v=_uF_tGByBrk
 
